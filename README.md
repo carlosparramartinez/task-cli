@@ -1,6 +1,8 @@
 - Task Tracker CLI
-https://github.com/carlosparramartinez/task-cli
+
 Este es un pequeño proyecto de línea de comandos (CLI) que desarrollé para gestionar tareas pendientes, tareas en progreso y tareas completadas. Es una herramienta simple pero útil para practicar programación con Python, manejo de archivos JSON y argumentos en consola.
+## URL del proyecto
+https://github.com/carlosparramartinez/task-cli
 
 ##  ¿Qué hace esta aplicación?
 
